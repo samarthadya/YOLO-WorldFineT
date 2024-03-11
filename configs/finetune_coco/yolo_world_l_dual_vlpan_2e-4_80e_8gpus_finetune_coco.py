@@ -6,8 +6,8 @@ custom_imports = dict(
     allow_failed_imports=False)
 
 # hyper-parameters
-num_classes = 80
-num_training_classes = 80
+num_classes = 2
+num_training_classes = 2
 max_epochs = 80  # Maximum training epochs
 close_mosaic_epochs = 10
 save_epoch_intervals = 5
